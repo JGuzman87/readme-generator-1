@@ -1,5 +1,5 @@
-# readme
-[![License: MIT](https://img.shields.io/badge/License-Apache_2.0-yellow.svg)](https://opensource.org/licenses/MIT)
+# README-GENERATOR
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   ## Table of Contents
 - [Description](#description) 
 - [Installation](#installation)
@@ -9,30 +9,30 @@
 - [Questions](#questions)
  
 * [License](#flicense)
-(#license)
+
   ## Description
-  l;afdj
+  The purpose of this project is to create a professional README.md file using node js and inquirer package.
  
   ## Installation
-  dfadfjalj
+  In order to install, you would need to clone github repo to your local machine.
 
   ## Usage
-  afd
+  In order to use, you would need to install Node JS and Inquirer package to you local machine.
 
   ## Contributing
-  adfa
+  Jorge Guzman
 
   ## Test
-  af
+  Various test were ran using Visual Studio Code.
   
   ## Questions
-  Email: fa
+  Email: jguzman913@gmail.com
 
-  Github: 
+  Github: https://github.com/JGuzman87/
 
   ## License 
     
-      Licensed under the Apache_2.0 license.
+      Licensed under the MIT license.
 
 
 
